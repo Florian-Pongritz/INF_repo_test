@@ -6,4 +6,12 @@ public class demo {
     public demo(int v){
         this.zahl = v;
     }
+
+    public int sqr(){
+        return this.zahl*this.zahl;
+    }
+
+    public float sqrt(){
+        return (float) Math.sqrt(this.zahl);
+    }
 }
