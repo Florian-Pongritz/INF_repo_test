@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 # HelloWorld
-Author: Gerhard Jarz <br>
+Author: Florian Pongritz <br>
 LBS Eibiswald | 2aAPC
 
 Nur eine Demo Anwendung...<br>
