@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# Vererbung
+# Vererbung Sers Burli
 Author: Florian Pongritz <br>
 LBS Eibiswald | 2aAPC
 
@@ -10,7 +10,7 @@ Dieses Programm dient nur zur Wiederholung
 
 ```cmd
 
-git checkout origin/master
+git checkout origin/master 
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
