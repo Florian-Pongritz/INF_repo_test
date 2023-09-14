@@ -23,6 +23,10 @@ Technologien im Einsatz:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Screenshots
+
+[![Screen Shot][product-screenshot]](https://example.com)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
