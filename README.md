@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# HelloWorld
+# Vererbung
 Author: Florian Pongritz <br>
 LBS Eibiswald | 2aAPC
 
