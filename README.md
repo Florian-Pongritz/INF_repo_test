@@ -3,8 +3,8 @@
 Author: Florian Pongritz <br>
 LBS Eibiswald | 2aAPC
 
-Nur eine Demo Anwendung...<br>
-Hier könnte die Anwendung erklärt werden...
+Vererbung Wiederholung<br>
+Dieses Programm dient nur zur Wiederholung
 
 ## Installation
 
@@ -19,16 +19,7 @@ git checkout origin/master
 Technologien im Einsatz:
 [![Java][java.com]][java-url]
 
-```php
-
-//some source code configuration
-
-```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Screenshots
-
-[![Screen Shot][product-screenshot]](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

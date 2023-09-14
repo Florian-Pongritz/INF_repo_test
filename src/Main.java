@@ -1,7 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        demo myDemo = new demo(100);
-
-        System.out.println("Quadrat: "+myDemo.sqr()+"\nWurzel: "+myDemo.sqrt());
+        Employee em = new Employee("Pongritz", "Florian", "333", 3);
+        em.printall();
+        em.setSupervisorID("21213");
+        em.setIncome(1000);
+        em.IncreaseIncome(22);
+        em.printall();
     }
 }
