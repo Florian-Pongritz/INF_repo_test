@@ -1,11 +1,10 @@
 <a name="readme-top"></a>
 # HelloWorld
-
-Nur eine Demo Anwendung...
-Hier könnte die Anwendung erklärt werden...
-
 Author: Gerhard Jarz <br>
 LBS Eibiswald | 2aAPC
+
+Nur eine Demo Anwendung...<br>
+Hier könnte die Anwendung erklärt werden...
 
 ## Installation
 
@@ -15,8 +14,9 @@ git checkout origin/master
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Verwendung
 
+## Verwendung
+Technologien im Einsatz:
 [![Java][java.com]][java-url]
 
 ```php
@@ -25,6 +25,7 @@ git checkout origin/master
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Screenshots
 
 [![Screen Shot][product-screenshot]](https://example.com)
